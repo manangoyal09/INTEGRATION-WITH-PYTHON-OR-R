@@ -105,3 +105,5 @@ Whether using Python or R, this bar chart is useful for:
 📊 Interactive Dashboards: Can be embedded into Streamlit (Python) or Shiny (R) for real-time filtering and analysis.
 
 #OUTPUT
+
+<img width="1600" height="1000" alt="Image" src="https://github.com/user-attachments/assets/aff940ca-b14c-4fb9-b162-2f5ab5bba16b" />
